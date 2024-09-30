@@ -64,7 +64,7 @@ const Login: React.FC = () => {
         <IonPage>
           <IonHeader>
             <IonToolbar color={'success'}>
-              <IonTitle>Bienvenidos Double v partners </IonTitle>
+              <IonTitle>Control de Tienda</IonTitle>
             </IonToolbar>
           </IonHeader>
 
